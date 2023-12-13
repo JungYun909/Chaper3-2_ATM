@@ -10,11 +10,5 @@ public class InputManager : MonoBehaviour
     public InputField MoneyInput;
     static public int InputMoney;
 
-    // Start is called before the first frame update
-    void Update()
-    {
-        
-    }
-
 
 }
